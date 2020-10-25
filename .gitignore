@@ -1,0 +1,4 @@
+.*
+
+# Allowed dot files
+!.gitignore
